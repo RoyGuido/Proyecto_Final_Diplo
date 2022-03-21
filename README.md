@@ -1,7 +1,7 @@
 # Trabajo Final de Diplomado <br> Módulos : <br> AUTOMATIZACIÓN I <br> AGILE TESTING
 
-#Realizado por: Roy Guido Salazar Herrera
-#Tema: Automatización de Pruebas para portal Web de Test Psicotécnico
+# Realizado por: Roy Guido Salazar Herrera
+# Tema: Automatización de Pruebas para portal Web de Test Psicotécnico
 
 # Consideraciones para ejecutar los TestCase:
 * Para el TestCase testStart, se dispondra varios datos de prueba para poder usar en la ejecución <br>
